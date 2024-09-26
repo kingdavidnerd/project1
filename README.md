@@ -34,23 +34,4 @@ The program was tested with the following sample inputs:
 3. **Confidence Adjustment**: The program asks for the user's confidence in their answers, and applies a random adjustment to the final probability to simulate uncertainty.
 4. **Final Output**: The program outputs the likelihood of the user being human or a robot.
 
-## Running the Program
-
-To run the program, follow these steps:
-
-1. Compile the Java file:
-
-    ```bash
-    javac projects1.java
-    ```
-
-2. Run the compiled program:
-
-    ```bash
-    java projects1
-    ```
-
-The program will then guide you through answering the questions and provide you with the results at the end.
-
-## Example Interaction
 
